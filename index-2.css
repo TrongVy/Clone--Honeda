@@ -34,14 +34,14 @@ nav {
 .carousel-item {
     position: relative;
 }
-.slider__title{
+.slider__title2{
     position: absolute;
      bottom: 50px; 
     width: 100%;
     color: white;
     text-align: center;
 }
-.slider__title a{
+.slider__title2 a{
     padding: 5px 20px;
     outline: none;
     background-color: red;
@@ -158,16 +158,16 @@ nav {
 .vehicles__slider .carousel-control-next{
     justify-content: flex-end;
 }
-.slider__title{
+.slider__title2{
     width: 30%;
     text-align: left;
     top: 100px;
     left: 50px;
 }
-.slider__title .logo svg{
+.slider__title2 .logo svg{
     width: 300px;
 }
-.slider__title p{
+.slider__title2 p{
     font-size: 12px;
     padding-top: 20px;
 }
