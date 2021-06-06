@@ -307,13 +307,7 @@ nav {
 }
 
 /* ??? */
-.slide{
-    position: absolute;
-    z-index: -1;
-}
-/* .slide .carousel-inner{
-    height: 700px;
-} */
+
 .slide .carousel-inner .carousel-item {
     height: 600px;
 }
