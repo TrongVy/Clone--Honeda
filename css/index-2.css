@@ -58,7 +58,7 @@ nav {
     margin: auto;
 }
 .intro__learn{
-    background-image: url("./img/campaign_1.webp");
+    background-image: url("../img/campaign_1.webp");
     background-size: 96% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ nav {
     border: 2px solid #2198dc;
 }
 .intro__explore{
-    background-image: url("./img/campaign_2.webp");
+    background-image: url("../img/campaign_2.webp");
     background-size: 96% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -266,7 +266,7 @@ nav {
     margin: auto;
 }
 .information__certified{
-    background-image: url("./img/certified.webp");
+    background-image: url("../img/certified.webp");
     background-size: 95% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -300,7 +300,7 @@ nav {
 }
 
 .information__guides{
-    background-image: url("./img/howtovideos.jpg");
+    background-image: url("../img/howtovideos.jpg");
     background-size: 95% 100%;
     background-position: center;
     background-repeat: no-repeat;
