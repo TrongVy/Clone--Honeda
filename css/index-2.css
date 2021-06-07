@@ -6,6 +6,7 @@
 html,body {
     scroll-behavior: smooth;
     font-family: 'Roboto', sans-serif;
+    
     /* background-color: #f3f3f3; */
 }
 
@@ -132,15 +133,18 @@ nav {
     text-align: center;
     padding-top: 100px;
 }
+h2{
+    font-size: 3.6rem !important;
+}
 .vehicles__title h2{
     color: #06456a;
-    font-size: 3rem;
+    font-size: 3rem ;
     font-weight: 300;
 }
 .vehicles__items {
     width: 75%;
     margin: auto;
-    font-size: .7rem;
+    font-size: 1.2rem;
     font-weight: 800;
 }
 .vehicles__items a{
@@ -213,7 +217,7 @@ nav {
 
 /* SHOPPING TOOLS */
 .shoppingTools__bar{
-    padding-top: 30rem;
+    padding-top: 50rem;
     width: 95%;
     display: flex;
     justify-content: center;

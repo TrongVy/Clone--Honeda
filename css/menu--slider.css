@@ -3,9 +3,9 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 /* menu */
-a svg{
-    width: 50px;
-    fill: white;
+.navbar a svg{
+    width: 50px !important;
+    fill: white !important;
 }
 nav {
     background-color:#007cc0 ;
