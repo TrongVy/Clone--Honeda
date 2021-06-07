@@ -127,6 +127,12 @@ nav {
 }
 
 /* VEHICLES */
+.carousel-control-prev{
+    left: 15px;
+}
+.carousel-control-next{
+    right: 15px;
+}
 .vehicles{
     width: 100%;
     margin: auto;
